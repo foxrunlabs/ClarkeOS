@@ -1,0 +1,1 @@
+--with-sdl --enable-sb16 --enable-ne2000 --enable-vbe --enable-plugins --enable-trace-cache --enable-host-specific-asms --enable-fast-function-calls --enable-debugger --enable-pci --enable-usb --enable-usb-ohci --enable-acpi
